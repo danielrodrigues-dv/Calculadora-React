@@ -20,7 +20,7 @@
 ## DEMO
 
 ![](https://i.ibb.co/XtwmNCN/calculadora-react.jpg)
-
+<a href="example.com" target="_blank">New Tab</a>
 [Visualizar Demo](https://danielrodrigues-dv-calculadora-react-dv.netlify.app/)
 
 ## Como Funciona a Aplicação
