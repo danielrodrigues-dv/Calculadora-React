@@ -3,7 +3,7 @@
 > Esse projeto foi criado por danielrodrigues-dv como exercício da biblioteca React e está sendo disponibilizado como Portfólio, fique a vontade para dar Fork, Pull Requests ou relatar algum erro.
 
 ## Sumário
-
+[go](http://stackoverflow.com){:target="_blank"}.
 - [Requisitos](#Requisitos)	
 - [Demonstração](#DEMO)
 - [Como Funciona a Aplicação](#Como-Funciona-a-Aplicação)
