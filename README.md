@@ -42,7 +42,7 @@ Agora que você clonou o projeto para o seu computador, será necessário instal
 npm install
 ```
 ---
-
+![](https://i.ibb.co/BL6c2k0/2021-11-05-08-22-23.gif)
 Com a aplicação clonada e todas as dependências instaladas você pode executar no terminal o comando abaixo para iniciar a aplicação:
 
 ```
