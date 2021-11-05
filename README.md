@@ -32,7 +32,7 @@ Uma calculadora comum imitando o visual da calculadora do Mac OS, é só clicar 
 Abra o terminal e digite:
 
 ```
-git clone https://github.com/danielrodrigues-dv/React-Calculadora.git
+git clone https://github.com/danielrodrigues-dv/Calculadora-React.git
 ```
 ---
 Agora que você clonou o projeto para o seu computador, será necessário instalar todas as dependências para a aplicação rodar diretamente no localhost. Para isso, digite o comando abaixo e espere a instalação terminar:
