@@ -14,7 +14,7 @@
 ## Requisitos
 
 + [Node](https://nodejs.org/)
-+ [NPM](https://www.npmjs.com/)
++ [NPM](https://www.npmjs.com/) ou [YARN](https://yarnpkg.com/getting-started/install)
 + [React](https://reactjs.org/)
 
 ## DEMO
