@@ -21,7 +21,7 @@
 
 ![](https://i.ibb.co/XtwmNCN/calculadora-react.jpg)
 
-+ [Visualizar Demo](danielrodrigues-dv-calculadora-react-dv.netlify.app)
+![Visualizar Demo](danielrodrigues-dv-calculadora-react-dv.netlify.app)
 
 ## Como Funciona a Aplicação
 
