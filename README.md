@@ -29,7 +29,7 @@ Uma calculadora comum imitando o visual da calculadora do Mac OS, é só clicar 
 
 ## Instalação
 
-Abra o terminal e digite:
+01) Abra o terminal e digite:
 
 ```
 git clone https://github.com/danielrodrigues-dv/Calculadora-React.git
@@ -38,14 +38,14 @@ git clone https://github.com/danielrodrigues-dv/Calculadora-React.git
 
 
 ---
-Agora que você clonou o projeto para o seu computador, será necessário instalar todas as dependências para a aplicação rodar diretamente no localhost. Para isso, digite o comando no terminal conforme abaixo e espere a instalação terminar:
+02) Agora que você clonou o projeto para o seu computador, será necessário instalar todas as dependências para a aplicação rodar diretamente no localhost. Para isso, digite o comando no terminal conforme abaixo e espere a instalação terminar:
 ```
 npm install
 ```
 ![](https://i.ibb.co/BL6c2k0/2021-11-05-08-22-23.gif)
 
 ---
-Com a aplicação clonada e todas as dependências instaladas você pode executar no terminal o comando abaixo para iniciar a aplicação:
+03) Com a aplicação clonada e todas as dependências instaladas você pode executar no terminal o comando abaixo para iniciar a aplicação:
 ```
 npm start
 ```
