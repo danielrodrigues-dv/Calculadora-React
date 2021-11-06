@@ -1,64 +1,117 @@
+<h1 align="center">Calculadora React JS</h1>			
+<br>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danielrodrigues-dv/Software-em-C?style=flat-square&&color=%2304D361" />
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/danielrodrigues-dv/Software-em-C?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/danielrodrigues-dv/Software-em-C?style=flat-square" />
+	<a href="https://github.com/danielrodrigues-dv/Software-em-C/blob/master/LICENSE">
+  <img src="https://img.shields.io/github/license/danielrodrigues-dv/Software-em-C?style=flat-square&" />
+	</a>
+  <a href="https://github.com/danielrodrigues-dv/Software-em-C/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielrodrigues-dv/Software-em-C?style=flat-square&">
+  </a>
+  <a href="https://github.com/danielrodrigues-dv">
+    <img alt="Feito por danielrodrigues-dv" src="https://img.shields.io/badge/feito%20por-Daniel%20Rodrigues-%237519C1?style=flat-square&">
+  </a>
+</p>
 
-# Calculadora React JS
-> Esse projeto foi criado por danielrodrigues-dv como exercício da biblioteca React e está sendo disponibilizado como Portfólio, fique a vontade para dar Fork, Pull Requests ou relatar algum erro.
+<h4 align="center">🚧 🚀 Concluído 🚀 🚧</h4>
+	
 
-## Sumário
-
-- [Requisitos](#Requisitos)	
-- [Demonstração](#DEMO)
-- [Como Funciona a Aplicação](#Como-Funciona-a-Aplicação)
-- [Instalação](#Instalação)
-- [Redes Sociais e Portfólio](#Redes-Sociais-e-Portfólio)
-
-
-## Requisitos
-
-+ [Node](https://nodejs.org/)
-+ [NPM](https://www.npmjs.com/) ou [YARN](https://yarnpkg.com/getting-started/install)
-+ [React](https://reactjs.org/)
-
-## DEMO
-
-![](https://i.ibb.co/XtwmNCN/calculadora-react.jpg)
-<p><a href="https://danielrodrigues-dv-calculadora-react-dv.netlify.app/" target="_blank">Visualizar Demo</a></p>
-
-
-## Como Funciona a Aplicação
-
-Uma calculadora comum imitando o visual da calculadora do Mac OS, é só clicar com o mouse e realizar a operação desejada
-
-## Instalação
-
-01) Abra o terminal e digite:
-
-```
-git clone https://github.com/danielrodrigues-dv/Calculadora-React.git
-```
-![](https://i.ibb.co/CwGGXcd/01-Clone.gif)
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre o projeto](#-sobre-o-projeto)
+   * [Funcionalidades](#%EF%B8%8F-funcionalidades)
+   * [Layout](#-layout)
+   * [Como executar o projeto](#-como-executar-o-projeto)
+     * [Pré-requisitos](#pré-requisitos)
+     * [Rodando a aplicação](#-rodando-a-aplicação)
+   * [Tecnologias](#-tecnologias)
+   * [Autor](#-autor)
+   * [Licença](#-licença)
+<!--te-->
 
 
----
-02) Agora que você clonou o projeto para o seu computador, será necessário instalar todas as dependências para a aplicação rodar diretamente no localhost. Para isso, digite o comando no terminal conforme abaixo e espere a instalação terminar:
-```
-npm install
-```
-![](https://i.ibb.co/BL6c2k0/2021-11-05-08-22-23.gif)
+## 💻 Sobre o projeto
+
+💪 Projeto Curso - Uma calculadora comum imitando o visual da calculadora do Mac OS, é só clicar com o mouse e realizar a operação desejada.
 
 ---
-03) Com a aplicação clonada e todas as dependências instaladas você pode executar no terminal o comando abaixo para iniciar a aplicação:
+
+## ⚙️ Funcionalidades
+
+- [x] Realizar Operções matemáticas.
+
+---
+
+## 🎨 Layout
+
+O layout da aplicação está disponível no Netlify:
+
+<a href="https://danielrodrigues-dv-calculadora-react-dv.netlify.app/">
+  <img alt="Made by danielrodrigues-dv" src="https://img.shields.io/badge/Acessar%20Layout%20-aqui-%2304D361?style=flat-square">
+</a>
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="danielrodrigues-dv" title="#Software-em-C" src="https://i.ibb.co/XtwmNCN/calculadora-react.jpg" />
+</p>
+
+---
+
+## 🚀 Como executar o projeto
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+
+
+
+#### 🧭 Rodando a aplicação
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/danielrodrigues-dv/Calculadora-React.git
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd Calculadora-React
+
+# Instale as dependências
+$ yarn install # ou npm install
+
+# Execute a aplicação
+$ yarn start # ou npm start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+
 ```
-npm start
-```
+---
 
-![](https://i.ibb.co/hMKsRS3/03-Abrindo-Projeto.gif)
-A aplicação rodará no endereço http://localhost:3000/ divirta-se!
+## 🛠 Tecnologias
 
-## Redes Sociais e Portfólio
+As seguintes ferramentas foram usadas na construção do projeto:
 
-daniel.rodrigues.soarees@gmail.com
+-   **[React](https://reactjs.org/)** 
+-   **[NodeJs](https://nodejs.org/)**
+---
 
-[Linkedin](https://www.linkedin.com/in/daniel-rodrigues-dv/)
+## 🦸🏻‍♂️ Autor
 
-[Site](https://www.podeserbrasil.com.br)
+<a href="https://github.com/danielrodrigues-dv">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/41621213?v=4" width="100px;" alt=""/>
+ <br>
+  <sub><b><p>Daniel Rodrigues</p></b></sub></a>
+ <br />
 
-[GitHub](https://github.com/danielrodrigues-dv)
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-rodrigues-dv/)](https://www.linkedin.com/in/daniel-rodrigues-dv/) 
+[![Gmail Badge](https://img.shields.io/badge/-daniel.rodrigues.soarees@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniel.rodrigues.soarees@gmail.com)](mailto:daniel.rodrigues.soarees@gmail.com)
+
+---
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+By Daniel Rodrigues  :)
