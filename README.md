@@ -41,7 +41,7 @@ Tabela de conteúdos
 
 ## ⚙️ Funcionalidades
 
-- [x] Realizar Operções matemáticas.
+- [x] Realizar Operações matemáticas.
 
 ---
 
