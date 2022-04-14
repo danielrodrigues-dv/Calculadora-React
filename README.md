@@ -35,7 +35,7 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-💪 Projeto Curso - Uma calculadora comum imitando o visual da calculadora do Mac OS, é só clicar com o mouse e realizar a operação desejada.
+💪 Projeto do Curso - Uma calculadora comum imitando o visual da calculadora do Mac OS, é só clicar com o mouse e realizar a operação desejada.
 
 ---
 
