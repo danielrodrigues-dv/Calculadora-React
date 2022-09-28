@@ -41,7 +41,7 @@ Tabela de conteúdos
 
 ## ⚙️ Funcionalidades
 
-- [x] Realizar Operações matemáticas.
+- :white_check_mark: Realizar Operações matemáticas.
 
 ---
 
